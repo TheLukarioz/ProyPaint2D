@@ -1,0 +1,69 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(36,5): warning MSB4211: La propiedad "IntermediateOutputPath" se va a establecer en un valor por primera vez, pero ya se utilizó en "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(337,5): warning MSB4211: La propiedad "CleanFile" se va a establecer en un valor por primera vez, pero ya se utilizó en "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)".
+  algebra3.cpp
+  arcball.cpp
+  glui.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_add_controls.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_bitmaps.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_bitmap_img_data.cpp
+  glui_button.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_checkbox.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_column.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_commandline.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_control.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_edittext.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_filebrowser.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_list.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_listbox.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_mouse_iaction.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_node.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_panel.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_radio.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_rollout.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  Generando código...
+  Compilando...
+  glui_rotation.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_scrollbar.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_separator.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_spinner.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_statictext.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_string.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_textbox.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_translation.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_tree.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_treepanel.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\glui_treepanel.cpp(188,20): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  glui_window.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  quaternion.cpp
+  Generando código...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1459,5): warning MSB8012: TargetPath(E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\msvc\.\Debug\_glui library.lib) no coincide con el valor de la propiedad OutputFile de Library (E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\msvc\lib\glui32d.lib). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1461,5): warning MSB8012: TargetName(_glui library) no coincide con el valor de la propiedad OutputFile de Library (glui32d). Esto puede hacer que el proyecto no se compile correctamente. Para solucionar este problema, asegúrese de que los valores de propiedad $(OutDir), $(TargetName) y $(TargetExt) coinciden con el valor especificado en %(Lib.OutputFile).
+  glui.vcxproj -> E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\glui-2.37\msvc\.\Debug\_glui library.lib

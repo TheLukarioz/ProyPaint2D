@@ -1,0 +1,11 @@
+﻿  Paint2D.cpp
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\freeglut\include\GL\glui.h(868,47): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\freeglut\include\GL\glui.h(868,31): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\freeglut\include\GL\glui.h(932,24): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\ProyPaint2D\Paint2D.cpp(26,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\ProyPaint2D\Paint2D.cpp(391,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\ProyPaint2D\Paint2D.cpp(397,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\ProyPaint2D\Paint2D.cpp(403,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\ProyPaint2D\Paint2D.cpp(409,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\ProyPaint2D\Paint2D.cpp(415,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  ProyPaint2D.vcxproj -> E:\Estudios\Doctorado\Curso 7\Trabajo en CSharp\ProyPaint2D\Debug\ProyPaint2D.exe
